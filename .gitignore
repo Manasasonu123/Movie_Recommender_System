@@ -1,0 +1,11 @@
+# Exclude virtual environment directory
+venv/
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude pickle files
+*.pkl
+movie_dict.pkl
+movies.pkl
+similarity.pkl
